@@ -1,0 +1,11 @@
+h1{
+    font-size: 40px;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    font-weight: 200;
+    padding: 200px;
+}
+div{
+    padding : 200px;
+    text-align : center
+}
